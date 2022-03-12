@@ -207,7 +207,7 @@ NOTA: Todos los entregables se deben subir en las fechas dispuestas a continuaci
 <details>
 <summary> Cliente Soypanel </summary>
 
-![soypanela](img/commerce2.png)
+![soypanela](img/commerce.png)
 
 ![directory](img/directoryEcommerce.png)
 
@@ -243,4 +243,19 @@ NOTA: Todos los entregables se deben subir en las fechas dispuestas a continuaci
 
 # </details>
 #
+<details>
+ <summary> links proyect </summary>
 
+#
+
+[Repository](https://github.com/dariohimo/unClienteReal.git "unClienteReal")
+
+#
+
+[Un cliente real](https://unclientereal.dariohimo.repl.co/ "Soypanela")
+
+# </details>
+#
+---
+ @dariohimo Marzo, 2022
+___
